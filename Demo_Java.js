@@ -1,3 +1,4 @@
 var a= 4;
-var b=5;
-console.log(a+b);
+var string= "Hello budy, how you doin?"
+console.log(a);
+console.log(string);
